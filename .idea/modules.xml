@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/h2demoapp.iml" filepath="$PROJECT_DIR$/h2demoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringH2DataDemoProject.iml" filepath="$PROJECT_DIR$/SpringH2DataDemoProject.iml" />
     </modules>
   </component>
 </project>
